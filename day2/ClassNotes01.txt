@@ -1,0 +1,44 @@
+Axle GitHub
+	https://github.com/axleb 
+
+Survey
+https://skillsoft.ca1.qualtrics.com/jfe/form/SV_6Qegz81Y5V6nLtX
+
+Download and install Notepad++ or Atom (or any simple text editor)
+	https://notepad-plus-plus.org/ 
+	https://atom.io/
+Install Postman
+	https://www.getpostman.com/
+Sign Up Edadmam
+	https://developer.edamam.com/
+jQuery: 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+jQuery Validator: 
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.0/dist/jquery.validate.js"></script>
+angularjs: 
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script>
+
+
+NodeJS
+https://nodejs.org/en/
+Required packages
+	Express - https://www.npmjs.com/package/express
+	bodyParser - https://www.npmjs.com/package/body-parser
+	Router - https://www.npmjs.com/package/router
+	Mongoose - https://www.npmjs.com/package/mongoose
+	Request - https://www.npmjs.com/package/request
+
+MongoDB
+https://www.mongodb.com/ 
+
+MySQL
+https://dev.mysql.com/downloads/ 
+
+Chrome Postman
+https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en 
+
+Chrome ARC REST Client
+https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo 
+
+Firefox REST Client
+https://addons.mozilla.org/en-US/firefox/addon/restclient/
